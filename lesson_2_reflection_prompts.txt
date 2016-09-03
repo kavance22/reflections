@@ -4,11 +4,14 @@ the repository for future changes
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
 staging area logs changes but doesn't commit them. It alows you wo commit changes all at 
 once across many files. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By comparing working directory with th staged directory to see if any changes have been made and 
+not commited
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
